@@ -1,5 +1,4 @@
 h1{ color: red; }
 h2{ color: #ee7800; }
 
-.border-bottom-3{
-  border-bottom: dashed 2px green
+p.sample1 {border-bottom:dashed 2px green}
