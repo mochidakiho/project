@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>不正解</title>
+    </head>
+  <body>
+    <img src="./image/ナナクロ.jfif" alt="ナナクロ">
+<p>残念...もう1回挑戦してみよう！</p>
+    </body>
+  </html>
