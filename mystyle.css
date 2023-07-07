@@ -2,6 +2,7 @@ h1{ color: red; }
 h2{ color: #ee7800; }
 h3{ color: green; }
 
-p.sample1 {border-bottom:dashed 2px green}
+p.sample1 {border-bottom:deshed 2px green}
+p.sample2 {border-bottom:ridge 2px green}
 
 th, td { border: dashed thick green}
